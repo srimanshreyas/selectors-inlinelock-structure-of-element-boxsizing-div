@@ -1,0 +1,83 @@
+img{
+    width: 355px;
+    height: 340px;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border: 20px double gold;
+
+}
+#rolls{
+background-color: rgb(188, 143, 168);
+text-align: center;
+border: solid black;
+text-shadow: 50px 50px 50px;
+box-shadow: 50px 50px 50px;
+color: grey;
+border-radius: 30px;
+}
+
+#span1{
+    background-color: aquamarine;
+}
+#span2{
+    background-color: aquamarine;
+}
+#rollsroyce{
+    background-color: beige;
+}
+#lux{
+padding: 10px; 
+text-align: center;
+border:20px dashed red;
+background-color: gold;}
+    
+
+.cardiv{background-color:black ;}
+
+#rangerover{
+    text-align: center;
+    background-color: goldenrod;
+    border: solid black;
+    text-shadow: 50px 50px 50px;
+    box-shadow: 50px 50px 50px;
+    color: gray;
+    border-radius: 30px;
+}
+#rangecar{
+    background-color: gray;
+}
+#span3{
+   background-color: green; 
+}
+#span4{
+    background-color:green;
+}
+#auto{padding: 10px; 
+    text-align: center;
+    border:20px double red;
+    background-color: beige;}
+    #vogue{padding: 10px; 
+        text-align: center;
+        border:20px double red;
+        background-color: beige;}
+        #phantom{padding: 10px; 
+            text-align: center;
+            border:20px double red;
+            background-color: grey;}
+            #ghost{padding: 10px; 
+                text-align: center;
+                border:20px double red;
+                background-color: grey;}
+#mulsanne{padding: 10px; 
+    text-align: center;
+    border:20px double red;
+    background-color: green;}
+ #continental{padding: 10px; 
+    text-align: center;
+    border:20px double red;
+    background-color: green;} 
+#bentlybody{
+    background-color: bisque;
+}      
+#span5{background-color: aquamarine;}
+#span6{background-color: aquamarine;}
